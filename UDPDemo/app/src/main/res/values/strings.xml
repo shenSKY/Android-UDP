@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">UDPDemo</string>
+    <string name="发送信息_textView">发送信息:</string>
+    <string name="接收信息_textView">接收信息:</string>
+    <string name="connect_btn">CONNECT</string>
+    <string name="send_btn">Send</string>
+    <string name="需要发送的信息_editText">请输入需要发送的信息</string>
+</resources>
